@@ -1,0 +1,20 @@
+# Title: Qhole
+#
+# Qanon Pihole List
+#
+# Date: 06 January 2021 00:00:00 (UTC)
+#
+# Fetch the latest version of this file: 
+# Project home page: 
+# Project releases: 
+#
+
+parler.com
+foxnews.com
+gab.com
+
+
+
+
+
+
