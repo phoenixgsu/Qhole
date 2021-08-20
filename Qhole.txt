@@ -12,6 +12,7 @@
 parler.com
 static.foxnews.com
 my.foxnews.com
+global.foxnews.com
 foxnews.com
 gab.com
 4chan.com
