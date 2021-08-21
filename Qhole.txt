@@ -19,6 +19,8 @@ global.foxnews.com
 foxnews.com
 oann.com
 newsmax.com
+fncstatic.com
+ogp.me
 
 #MAGagrift
 trump.com
