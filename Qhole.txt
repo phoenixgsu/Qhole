@@ -13,10 +13,23 @@
 qmap.pub
 
 #propaganda
+www.foxnews.com
 static.foxnews.com
+a57.foxnews.com
+s.go-mpulse.net
+omny.fm
+assets.omny.fm
+cdn.raygun.io
+js-agent.newrelic.com
+webcontentassessor.global.ssl.fastly.net
+global.fncstatic.com
+fundingchoicesmessages.google.com
+apps.foxnews.com
 my.foxnews.com
-global.foxnews.com
-foxnews.com
+api.foxnews.com
+feeds-dataviz.foxnews.com
+www.foxbusiness.com
+www.omnycontent.com
 oann.com
 newsmax.com
 fncstatic.com
