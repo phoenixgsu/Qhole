@@ -9,12 +9,26 @@
 # Project releases: 
 #
 
-parler.com
+#Q nonsense
+qmap.pub
+
+#propaganda
 static.foxnews.com
 my.foxnews.com
 global.foxnews.com
 foxnews.com
+oann.com
+newsmax.com
+
+#MAGagrift
+trump.com
+donaldjtrump.com
+givesendgo.com
+
+
+#WS
+
+#Socialgarbagechute
+parler.com
 gab.com
 4chan.com
-
-
